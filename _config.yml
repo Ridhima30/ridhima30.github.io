@@ -1,0 +1,47 @@
+# top level stuff you probably don't need to touch
+highlighter: rouge
+markdown: kramdown
+rdiscount:
+  extensions: [smart]
+permalink: /:title.html
+paginate: 5
+plugins: [jekyll-paginate]
+port: 3000
+safe: true
+
+
+# edit here to achieve your personal greatness
+url: https://aggarwalsarthak.github.io/
+baseurl: /
+title: Sarthak Aggarwal
+author: Sarthak Aggarwal
+description: Personal blog and resume
+avatar: sarthakvl.png
+email: sarthakaggarwal97@gmail.com
+github: sarthakaggarwal97 # username
+twitter:
+linkedin: sarthakaggarwal97
+stackoverflow:  #e.g: users/2735833/proton1h1
+medium: #e.g: NobelPeaceOslo
+#Comment out if you don't want disqus
+disqus:
+google_analytics: G-M0D09V41H0
+
+name: Sarthak Aggarwal
+email: sarthakaggarwal97@gmail.com
+email_full: mailto:sarthakaggarwal97@gmail.com
+website: github.io/sarthakaggarwal
+website_full: aggarwalsarthak.github.io/
+github: sarthakaggarwal97
+twitter:
+tel: +91 (958) 2770355
+tel_full: tel:++919582770355
+google_maps: 'https://goo.gl/maps/fUApc7DLELDAdLah8'
+address:
+  street: New Delhi
+  postcode: 110018
+  city: Delhi
+  country: India
+
+# needed for travis-ci build
+exclude: [vendor]
