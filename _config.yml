@@ -11,35 +11,35 @@ safe: true
 
 
 # edit here to achieve your personal greatness
-url: https://aggarwalsarthak.github.io/
+url: https://ridhima30.github.io/
 baseurl: /
-title: Sarthak Aggarwal
-author: Sarthak Aggarwal
+title: Ridhima Bansal
+author: Ridhima Bansal
 description: Personal blog and resume
 avatar: sarthakvl.png
-email: sarthakaggarwal97@gmail.com
-github: sarthakaggarwal97 # username
+email: bansal.ridhima30@gmail.com
+github: ridhima30 # username
 twitter:
-linkedin: sarthakaggarwal97
+linkedin: ridhima-bansal14
 stackoverflow:  #e.g: users/2735833/proton1h1
 medium: #e.g: NobelPeaceOslo
 #Comment out if you don't want disqus
 disqus:
 google_analytics: G-M0D09V41H0
 
-name: Sarthak Aggarwal
-email: sarthakaggarwal97@gmail.com
-email_full: mailto:sarthakaggarwal97@gmail.com
-website: github.io/sarthakaggarwal
-website_full: aggarwalsarthak.github.io/
-github: sarthakaggarwal97
+name: Ridhima Bansal
+email: bansal.ridhima30@gmail.com
+email_full: mailto:bansal.ridhima30@gmail.com
+website: github.io/ridhima30
+website_full: ridhima30.github.io/
+github: ridhima30
 twitter:
-tel: +91 (958) 2770355
-tel_full: tel:++919582770355
+tel: +91 (989) 9787404
+tel_full: tel:++919899787404
 google_maps: 'https://goo.gl/maps/fUApc7DLELDAdLah8'
 address:
   street: New Delhi
-  postcode: 110018
+  postcode: 110070
   city: Delhi
   country: India
 
